@@ -4,6 +4,6 @@ def swap_case(text):
 s = (input("enter a string: "))
 result = swap_case(s)
 
-   print(result)
+print(result)
 
 
