@@ -14,5 +14,5 @@ def split_n_join(text):
 if __name__ == "__main__":
     text = input("Enter the string: ")
     result = split_n_join(text)
-    print(result)
+print(result)
 
